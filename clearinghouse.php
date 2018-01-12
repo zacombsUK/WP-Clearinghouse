@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       CCLD Clearinghouse
  * Plugin URI:        https://github.com/zacombsUK/wp-clearinghouse.git
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Plugin to display clearinghouse resources for educators, admins, and policy makers.
  * Version:           1.0.0
  * Author:            Zachary Combs
  * Author URI:        http://zacombs.com/
